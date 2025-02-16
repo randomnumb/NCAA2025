@@ -1,0 +1,29 @@
+# R specific files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files (should be downloaded via Kaggle CLI)
+/data/*.csv
+/data/*.zip
+
+# Model files (can be large)
+/models/*.rds
+/models/*.RData
+
+# Submission files
+/submissions/*.csv
+
+# Environment variables and secrets
+.env
+.kaggle
+kaggle.json
+
+# OS specific files
+.DS_Store
+.Thumbs.db
+
+# RStudio project file (create your own or add to Git later if needed)
+*.Rproj
+
