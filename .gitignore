@@ -27,3 +27,4 @@ kaggle.json
 # RStudio project file (create your own or add to Git later if needed)
 *.Rproj
 
+/data
